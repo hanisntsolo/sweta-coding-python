@@ -2,6 +2,8 @@ git status
 
 git add .   //This command adds all the untracked files to staging area.
 
+git status
+
 git commit -m "message"
 
 git push origin branchName
